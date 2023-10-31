@@ -1,5 +1,5 @@
 
-Jonathan Zavala Acosta
+Jonathan Zavala
 
 Parcial 3 - Práctica 4
 
