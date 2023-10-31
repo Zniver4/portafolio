@@ -4,7 +4,7 @@
 }
 
 .inicio{
-    background-image: url(https://images2.alphacoders.com/117/1171867.png);
+    background-image: url(https://www.teahub.io/photos/full/139-1393655_computadoras-para-fondo-de-pantalla.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0 50%;
@@ -27,13 +27,13 @@
 }
 
 .acerca img{
-    width: 25rem;
+    width: 15rem;
     height: auto;
-    border-radius: 50%;
+    border-top: 50%;
 }
 
-.trabajos{
-    background-image: url(https://dkv.es/corporativo/sites/default/files/2022-11/que%20son%20las%20ong.jpg);
+.escolar{
+    background-image: url(https://i.blogs.es/fd396a/hook/1366_2000.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0 50%;
