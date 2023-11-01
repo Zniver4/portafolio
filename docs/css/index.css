@@ -41,6 +41,12 @@
 }
 
 .Contacto{
-    background-color:forestgreen;
+    background-color:darkgreen;
     color: antiquewhite;
 }
+a {
+    color:darkblue;
+  }
+a:hover {
+    color:yellowgreen;
+  }
