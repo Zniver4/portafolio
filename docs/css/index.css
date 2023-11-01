@@ -4,12 +4,13 @@
 }
 
 .inicio{
-    background-image: url(https://www.teahub.io/photos/full/139-1393655_computadoras-para-fondo-de-pantalla.jpg);
+    background-image: url(https://ximhai.com/img/programando.gif);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0 50%;
-
-    color: antiquewhite;
+    margin-top: 75px; /* Ajusta la distancia entre la barra de navegación y la sección */
+    padding: 20px;
+    color:mintcream;
 }
 
 .inicio img{
@@ -19,7 +20,7 @@
 }
 
 .acerca{
-    background-image: url(https://ximhai.com/img/programando.gif);
+    background-image: url(https://ssl.sitew.org/images/blog/articles/fonds/e11.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0 50%;
@@ -29,20 +30,31 @@
 .acerca img{
     width: 15rem;
     height: auto;
-    border-top: 50%;
+    border-radius: 50%;
 }
 
 .escolar{
-    background-image: url(https://i.blogs.es/fd396a/hook/1366_2000.jpg);
+    background-image: url(https://img.freepik.com/fotos-premium/fondo-degradado-limpio-fondos-colores-claros-colorido_873925-101116.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0 50%;
     color: blanchedalmond;
 }
 
+iframe{
+    width: 90%;
+    height: 90%;
+  
+}
+
 .Contacto{
-    background-color:darkgreen;
-    color: antiquewhite;
+    background-image: url(https://img.freepik.com/foto-gratis/habitacion-vacia-fondo-estudio-abstracto-degradado-verde-liso-lujo-espacio-texto-e-imagen_1258-63576.jpg?size=338&ext=jpg&ga=GA1.1.386372595.1698192000&semt=ais);
+    color:black;
+    
+}
+.Contacto img{
+    width: 10rem; 
+    height: 6rem;
 }
 a {
     color:darkblue;
@@ -50,3 +62,13 @@ a {
 a:hover {
     color:yellowgreen;
   }
+  .lista-en-fila {
+    list-style-type: none; /* Elimina los estilos de viñeta de la lista */
+    padding: 0; /* Elimina el relleno predeterminado de la lista */
+    display: flex; /* Usa un contenedor flexible para los elementos de la lista */
+  }
+  
+  .lista-en-fila li {
+    margin-right:200px; /* Espacio entre los elementos de la lista */
+  }
+  
